@@ -19,6 +19,8 @@ When going to a bank, people choose the nearest bank available. If it is less th
 
 
 q2
+
+
 1.We have a dataset of 3000 movies from the internet movie database here. This dataset includes columns such as title, genre, budget, production companies, cast, etc. Using only the information provided in this dataset, answer the following questions. (Dataset may require cleaning first)
 
 2.Which are the genres with the highest number of movies? (Note that a movie may have more than one genre)
